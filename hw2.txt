@@ -75,3 +75,10 @@ The commands used in this action are pull fetch and automatic tracking is done i
 
 I didn't ask you to do this, but suppose I asked you to make a commit on the 'other' branch. If I wanted you to push this branch, what command would you use?
 Submit this homework by typing your answers to these questions in a file called hw5.txt. You should commit this on the master branch of your repository. Most importantly, make sure to push the master branch!
+
+
+
+
+link is 
+
+https://github.com/amulya1234/assignment_2/blob/master/hw2.txt
